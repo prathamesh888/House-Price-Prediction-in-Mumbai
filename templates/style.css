@@ -1,0 +1,12 @@
+.inpdiv {
+  font-size: larger;
+  margin: 40px;
+  font-size: 50px;
+}
+.inp {
+  border-radius: 5px;
+  border: none;
+  text-align: center;
+  width: 300px;
+ 
+}
